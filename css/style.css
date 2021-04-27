@@ -1,0 +1,87 @@
+body
+{
+    background-image: url('https://i.stack.imgur.com/NX7PC.jpg');
+}
+main
+{
+    width: 70%;
+    margin: auto;
+    margin-top:12%;
+    font-family: 'Courgette', cursive;
+}
+
+form,.table
+{
+    background-color: WhiteSmoke
+    ;
+
+    padding: 1%;
+
+    width:33%;
+
+   min-height: 
+   200px;
+text-align: center;
+}
+
+
+table
+{
+margin-left: 18%;
+    border: solid;
+    border-width: 1px;
+  
+color:white;
+background-color: RGB(78, 78, 78)
+;
+}
+.left
+{
+    float: left;
+}
+
+.right
+{
+    float: right;
+}
+
+
+form input
+{
+    border-radius: 12%;
+    padding: 1%;
+}
+
+
+td
+{
+    background-color: RGBA(211, 211, 211, 0.548) ;
+    text-align: center;
+    border: solid;
+    border-width: 1px;
+  
+}
+
+tr 
+{
+    border: solid;
+    border-width: 1px;
+  
+}
+th
+{
+    border: 1px;
+    background-color: RGB(78, 78, 78)
+    ;
+}
+
+#button
+{
+    background-color: RGB(39, 39, 39)
+    ;
+
+    color: white;
+
+    margin-top: 4%;
+    padding: 0 9%;
+}
